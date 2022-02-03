@@ -1,10 +1,11 @@
-/*.center-label label{
+.center-label label{
     margin-bottom: 15px;
     display:inline-block;
 }
 label.invisible-label{
 margin:0;
 }
+.row,body.FormPage,#dvForm{background: #f9f9f9;}
 .row .FormRow {
     width: 100%;
     display: block;
@@ -36,14 +37,20 @@ margin:0;
  flex-direction: row;
  align-items: center;
  align-content: center;
- flex-wrap: wrap;width: 85vw !important;
+ flex-wrap: wrap;width: 95vw !important;
  justify-content: space-between;
 }
 .row .FormRow.ElementWrap-Container-Paragraph{
-    order:3;width: 100%;
+    order:4;width: 100%;
 }
 .row .FormRow.ElementWrap-Container-Image{
     order:1;width: 100%;
+}
+.row .FormRow.new-element-warp.ElementWrap-Container-1643884405716-874-56,
+.row .FormRow.new-element-warp.ElementWrap-Container-1643884407880-173-57
+
+{
+    order:1;
 }
 .row .FormRow.ElementWrap-Container-FullName,.row .FormRow.ElementWrap-Container-TextArea{
     width: 100%;
@@ -73,9 +80,6 @@ margin:0;
     display:flex;
     width: 40px;
 }
-.MoneyWow1_56{
-background-color:yellow;
-}
 
 .element-table-cell.LastName-1619631140922-23-1,
 .element-table-cell.FirstName-1619631140922-23-1{
@@ -92,7 +96,7 @@ background-color:yellow;
 .element-table-cell.FirstName-1619631140922-23-1,
 .element-table-cell.LastName-1619631140922-23-1 {
     width: 100% !important;margin:0;
-}*/
+}
 /*
 .form-row .ft-form-element .element-table .element_approved,
 .form-row .ft-form-element .element-table .error-msg{position:absolute;bottom:15px;left:0;}*/
