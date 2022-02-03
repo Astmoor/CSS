@@ -1,0 +1,95 @@
+/*.center-label label{
+    margin-bottom: 15px;
+    display:inline-block;
+}
+label.invisible-label{
+margin:0;
+}
+.row .FormRow {
+    width: 100%;
+    display: block;
+}
+.ParagraphContainer{
+    height:auto !important;
+}
+.row .FormRow.new-element-warp {
+    position:relative !important;
+    top:unset !important;
+    left:unset !important;
+    right:unset !important;
+    bottom:unset !important;
+    order:2;
+    width: 100%;
+}
+
+.row .FormRow.new-element-warp {
+}
+
+.row .FormRow.new-element-warp.ElementWrap-Container-DropDown{
+    
+}
+.new-element-warp .form-row .element-container.Container.block-in-table {
+    width: 100% !important;
+}
+.row > span > .col {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ align-content: center;
+ flex-wrap: wrap;width: 85vw !important;
+ justify-content: space-between;
+}
+.row .FormRow.ElementWrap-Container-Paragraph{
+    order:3;width: 100%;
+}
+.row .FormRow.ElementWrap-Container-Image{
+    order:1;width: 100%;
+}
+.row .FormRow.ElementWrap-Container-FullName,.row .FormRow.ElementWrap-Container-TextArea{
+    width: 100%;
+}
+.row .FormRow.ElementWrap-Container-Button{
+    order:4;margin-top:35px;width: 100%;
+}
+.row{display:flex;flex-direction: column;flex-wrap: nowrap;align-content: center;align-items: center;}
+#dvForm{height:auto !important;width:auto !important;padding-top:35px;padding-bottom:35px;}
+
+.input-group.Date {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;position:relative;
+}
+.input-group.Date .DateField{
+    width: 100%;
+    display: block;
+    margin-right: 40px;
+}
+.element-table-row{
+    padding-bottom: 10px; 
+}
+.input-group.Date .input-group-btn{
+    position:absolute;
+    right:0;background:white;
+    display:flex;
+    width: 40px;
+}
+
+.element-table-cell.LastName-1619631140922-23-1,
+.element-table-cell.FirstName-1619631140922-23-1{
+    margin:0 0 15px !important;
+}
+.form-row .ft-form-element .element-table{
+    display:flex !important;
+    flex-direction: column;
+    padding-bottom: 15px;
+}
+.element-table-cell{width:100% !important}
+.element-table,.element-container,
+.element-table-cell,
+.element-table-cell.FirstName-1619631140922-23-1,
+.element-table-cell.LastName-1619631140922-23-1 {
+    width: 100% !important;margin:0;
+}*/
+/*
+.form-row .ft-form-element .element-table .element_approved,
+.form-row .ft-form-element .element-table .error-msg{position:absolute;bottom:15px;left:0;}*/
